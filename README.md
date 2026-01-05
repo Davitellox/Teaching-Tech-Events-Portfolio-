@@ -40,10 +40,13 @@ I have over **4+ years of experience tutoring**, alongside **building and deploy
 - Mentored students through real-world projects  
 - Tracked progress and provided technical feedback  
 
-📸 *Event Photos*  
-![Tech Ignite Session](images/tech_ignite_1.jpg)  
-![Hands-on Training](images/tech_ignite_2.jpg)
-![Hands-on Training](images/tech_ignite_3.jpg)
+📸 <i>Event Photos</i>
+<p align="center">
+  <img src="images/tech_ignite_1.jpg" width="300">
+  <img src="images/tech_ignite_2.jpg" width="300">
+  <img src="images/tech_ignite_3.jpg" width="300">
+</p>
+
 
 ---
 
@@ -66,8 +69,9 @@ I have over **4+ years of experience tutoring**, alongside **building and deploy
 - Supported learners with career and growth guidance  
 
 📸 *Bootcamp Sessions*  
-![Bootcamp Training](images/bootcamp_1.jpg)
-![Bootcamp Training](images/bootcamp_2.jpg)
+<img src="images/bootcamp_1.jpg" width="350"><br>
+<img src="images/bootcamp_2.jpg" width="350">
+
 
 ---
 
@@ -88,8 +92,11 @@ I have over **4+ years of experience tutoring**, alongside **building and deploy
 - Introduced learners to real-world tech workflows  
 
 📸 *Workshop Moments*  
-![Workshop](images/workshop_1.jpg)
-![Workshop](images/workshop_2.jpg)
+<p align="center">
+  <img src="images/workshop_1.jpg" width="300">
+  <img src="images/workshop_2.jpg" width="300">
+</p>
+
 
 ---
 
