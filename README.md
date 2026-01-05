@@ -118,7 +118,7 @@ I have over **4+ years of experience tutoring**, alongside **building and deploy
 ## 🔗 Links
 
 - **GitHub:** https://github.com/Davitellox  
-- **Projects Portfolio:** *(Add your project link here)*
+- **Projects Portfolio:** *(‎https://github.com/Davitellox/doxa)*, *(‎https://github.com/Davitellox/doxa)*, *(‎https://github.com/Davitellox/doxa)*, *(‎https://github.com/Davitellox/doxa)*
 
 ---
 
