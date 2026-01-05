@@ -118,7 +118,9 @@ I have over **4+ years of experience tutoring**, alongside **building and deploy
 ## 🔗 Links
 
 - **GitHub:** https://github.com/Davitellox  
-- **Projects Portfolio:** *(‎https://github.com/Davitellox/doxa)*, *(‎https://github.com/Davitellox/doxa)*, *(‎https://github.com/Davitellox/doxa)*, *(‎https://github.com/Davitellox/doxa)*
+- **Projects Portfolio:** *(‎https://github.com/Davitellox/doxa)*, *(‎https://github.com/Davitellox/safehaven)*
+- ‎**A demo video of my EdTech Robot (Prototype);** *(‎‎‎https://drive.google.com/file/d/1iX7Sdc7_OH0lFLxvYmLVKYNEk8kEBpQU/view?usp=sharing)*, *(‎‎https://drive.google.com/file/d/1Z_SOumSYlg9703Djyi6gOwztd9-bIB8K/view?usp=sharing)*
+- **‎A folder of short clips of my hobbyist projects;** *(‎‎https://drive.google.com/drive/folders/1OhwcUKjVinFtz-2GxTY8PeOmhJaP-0sB?usp=sharing)*
 
 ---
 
