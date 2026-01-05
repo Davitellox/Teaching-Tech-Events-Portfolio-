@@ -71,8 +71,8 @@ I have over **4+ years of experience tutoring**, alongside **building and deploy
 
 📸 <i> Bootcamp Sessions</i>
 <p align="center">
-<img src="images/bootcamp_1.jpg" width="350"><br>
-<img src="images/bootcamp_2.jpg" width="350">
+<img src="images/bootcamp_1.jpg" width="300">
+<img src="images/bootcamp_2.jpg" width="300">
 </p>
 
 ---
