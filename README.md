@@ -68,10 +68,12 @@ I have over **4+ years of experience tutoring**, alongside **building and deploy
 - Reviewed code and guided improvements  
 - Supported learners with career and growth guidance  
 
-📸 *Bootcamp Sessions*  
+
+📸 <i> Bootcamp Sessions</i>
+<p align="center">
 <img src="images/bootcamp_1.jpg" width="350"><br>
 <img src="images/bootcamp_2.jpg" width="350">
-
+</p>
 
 ---
 
